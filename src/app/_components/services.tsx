@@ -62,7 +62,7 @@ export function Services() {
     }
 
     return (
-        <section className='bg-white py-16'>
+        <section className='bg-white py-16 overflow-hidden'>
             <div className='container mx-auto px-4'>
                 <h2 className='text-4xl font-bold mb-12'>Nossos serviços</h2>
                 <div className='relative'>

@@ -19,7 +19,7 @@ const brands = [
 
 export function Footer() {
     return (
-        <section className='bg-[#E84C3D] py-16 text-white'>
+        <section className='bg-[#E84C3D] py-16 text-white overflow-hidden'>
             <div className='container mx-auto px-4'>
                 <div className='border-b border-white/20 pb-8'>
                     <h4 className='text-3xl font-semibold mb-8 text-center'>Marcas que trabalhamos</h4>
